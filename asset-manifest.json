@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goods-store-react/static/css/main.3ca5aec1.css",
+    "main.js": "/goods-store-react/static/js/main.9e2b9ac7.js",
+    "index.html": "/goods-store-react/index.html",
+    "main.3ca5aec1.css.map": "/goods-store-react/static/css/main.3ca5aec1.css.map",
+    "main.9e2b9ac7.js.map": "/goods-store-react/static/js/main.9e2b9ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ca5aec1.css",
+    "static/js/main.9e2b9ac7.js"
+  ]
+}
