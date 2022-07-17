@@ -2,7 +2,7 @@
   "name": "react-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khardy-official.github.io/goods-store-react/",
+  "homepage": "https://khardy-official.github.io/shopping-cart-react-redux/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
