@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/goods-store-react/static/css/main.3ca5aec1.css",
-    "main.js": "/goods-store-react/static/js/main.19aedbca.js",
-    "index.html": "/goods-store-react/index.html",
-    "main.3ca5aec1.css.map": "/goods-store-react/static/css/main.3ca5aec1.css.map",
-    "main.19aedbca.js.map": "/goods-store-react/static/js/main.19aedbca.js.map"
+    "main.css": "/shopping-cart-react-redux/static/css/main.3ca5aec1.css",
+    "main.js": "/shopping-cart-react-redux/static/js/main.19aedbca.js",
+    "index.html": "/shopping-cart-react-redux/index.html",
+    "main.3ca5aec1.css.map": "/shopping-cart-react-redux/static/css/main.3ca5aec1.css.map",
+    "main.19aedbca.js.map": "/shopping-cart-react-redux/static/js/main.19aedbca.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca5aec1.css",
